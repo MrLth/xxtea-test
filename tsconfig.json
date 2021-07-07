@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "downlevelIteration": true,
+    "lib": [
+      "es2017",
+      "dom"
+    ],
+  }
+}
