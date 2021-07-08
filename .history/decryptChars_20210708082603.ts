@@ -2,12 +2,13 @@
  * @Author
  * @LastEditors: mrlthf11
  * @Date: 2021-07-04 21:22:38
- * @LastEditTime: 2021-07-08 09:00:25
+ * @LastEditTime: 2021-07-08 08:21:19
  * @Description: file content
  */
 
 export const delta = 2654435769
 export const k = [895824242,863319408,1952802655,808464432]
+// export const k = [875770417, 943142453, 875770417, 943142453]
 
 
 export default (str: number[]) => {
